@@ -4,7 +4,7 @@ Repositório destinado à resolução da segunda lista de exercícios da discipl
 
 ## 💻 Tecnologias e Conceitos
 * **Linguagem:** Java
-* **Entrada de Dados:** `java.util.Scanner`
+* **Entrada de Dados:** `java.util.Scanner` e `JOptionPane`
 * **Conceitos abordados:** Estruturas condicionais (`if`, `else if`, `else`), operadores relacionais (`>`, `<`, `>=`, `<=`, `==`), operador de módulo/resto da divisão (`%`) e introdução à biblioteca matemática (`java.lang.Math` para raízes e potências).
 * **Lógica Pura:** Resoluções focadas em tomadas de decisão e desvios de fluxo. Os algoritmos avaliam condições específicas para determinar qual bloco de código deve ser executado.
 
@@ -17,6 +17,7 @@ Repositório destinado à resolução da segunda lista de exercícios da discipl
 * **Exercício 05:** Raiz e Potência. Lê um número e avalia seu sinal matemático. Se for positivo ou zero, calcula e exibe sua raiz quadrada (utilizando `Math.sqrt()`). Se for negativo, calcula e exibe o seu quadrado multiplicando ele por ele mesmo.
 * **Exercício 06:** Múltiplo de 3. Recebe um número do usuário e verifica se o resto da sua divisão por 3 é igual a zero (`% 3 == 0`), informando se o valor possui essa multiplicidade.
 * **Exercício 07:** Divisibilidade por 5. Semelhante ao exercício anterior, recebe um valor numérico e aplica o operador de módulo (`% 5 == 0`) para validar e imprimir na tela se o número é perfeitamente divisível por 5.
-
+* **Exercício 08:** Divisibilidade de A por B. Divisibilidade entre dois valores fornecidos pelo usuário, dois valores e o primeiro valor tem que ser divisível pelo segundo, não podendo o mesmo ser zero e tratamento de entrada inválida.
+* **Exercício 09:** Verificação de Maior que e Menor que. Pede ao usuário que escreva dois números e avisa se o primeiro número é maior ou menor que o segundo número, exibe também se são igual e tratamento de entrada inválida.
 ---
 *Desenvolvido por Natã durante o 3º Semestre do curso de Engenharia de Computação.*
